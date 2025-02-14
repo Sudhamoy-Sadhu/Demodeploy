@@ -1,0 +1,46 @@
+/* src/styles/ItemForm.css */
+.item-form-container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+  }
+  
+  .item-form-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .item-form-container .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .item-form-container label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .item-form-container input,
+  .item-form-container textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .item-form-container button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .item-form-container button:hover {
+    background-color: #45a049;
+  }
+  
